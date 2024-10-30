@@ -1,3 +1,7 @@
 asdadadasas
+<<<<<<< HEAD
 FINAL10
+=======
+FINAL2
+>>>>>>> e06b460f9f0e3114d930fa2466aad7bbcefc9fc6
 AAAA
